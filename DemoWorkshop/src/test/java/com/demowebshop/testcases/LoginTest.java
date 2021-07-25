@@ -9,8 +9,5 @@ public class LoginTest extends TestBase{
 	public void LoginTest() {
 		System.out.println(driver.getCurrentUrl());
 	}
-	
-	public void LoginTest2() {
-		System.out.println(driver.getCurrentUrl());
-	}
+
 }
